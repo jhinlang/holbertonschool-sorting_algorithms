@@ -1,7 +1,8 @@
 #include "sort.h"
 /**
- * @array: is the array to travel
- * @size: is the number of variables in the array
+ * bubble_sort - function to make a sort
+ *@array: is the array to travel
+ *@size: is the number of variables in the array
  *
  * Return: nothing
  */
