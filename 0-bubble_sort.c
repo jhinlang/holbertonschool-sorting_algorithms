@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "sort.h"
 /**
  * @tab: is the array to travel
  * @n: is the number of variables in the array
