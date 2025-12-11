@@ -2,7 +2,7 @@
 /**
  * @array: is the array to travel
  * @size: is the number of variables in the array
- * 
+ *
  * Return: nothing
  */
 
